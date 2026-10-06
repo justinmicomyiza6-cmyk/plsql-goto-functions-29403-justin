@@ -1,0 +1,19 @@
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# SQL Developer temporary/log files
+*.log
+*.tmp
+*.bak
+
+# Oracle/SQL Developer generated files
+*.dmp
+
+# Editor temporary files
+*.swp
+*.swo
+
+# Windows temporary files
+~$*
